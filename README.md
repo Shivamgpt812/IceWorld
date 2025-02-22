@@ -12,7 +12,7 @@ Welcome to **IceWorld**! 🎉 The sweetest place to satisfy your cravings for **
 
 ---
 
-## 🏠 Home Page Preview
+## 🏠 Preview
 ![IceWorld Preview](preview.png)  
 
 💖 **Welcome to the world of creamy delight!**  
@@ -37,8 +37,8 @@ Welcome to **IceWorld**! 🎉 The sweetest place to satisfy your cravings for **
 ---
 
 ## 🔗 Connect With Us!
-🌐 [Website]()
-📸 [Youtube]()
+🌐 [Website](https://portfolio08shivam.netlify.app/)
+📸 [Youtube](https://www.youtube.com/@ValiCodeLab)
 
 ## 🚀 Join us in making the world a sweeter place! 🍨💙
 Made with ❤️ by Shivam 🏆
